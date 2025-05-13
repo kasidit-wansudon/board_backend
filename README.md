@@ -17,10 +17,14 @@
    npm install
    # or
    yarn install
+   # or
+   pnpm install
    ```
 4. Start development server:
    ```bash
    npm start:dev
+   # or
+   pnpm start:dev
    ```
 5. Run unit tests:
    ```bash
