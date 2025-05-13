@@ -25,6 +25,7 @@
 5. Run unit tests:
    ```bash
    ไม่ได้ทำครับ ใช้แค่ swagger
+   http://[::1]:30001/api
    ```
    set .ENV
 
